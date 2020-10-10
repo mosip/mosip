@@ -5,7 +5,7 @@ MOSIP (https://mosip.io) stands for Modular Open-Source Identity Platform. It is
 The repos in MOSIP have everything that you need to build and deploy it on a on-premise or hosted environment.
 
 1. [commons](https://github.com/mosip/commons):  Kernel and ID repository modules
-1. [registration](https://github.com/mosip/registration): Registration processor and rregistration client
+1. [registration](https://github.com/mosip/registration): Registration processor and registration client
 1. [pre-registration](https://github.com/mosip/pre-registration): Pre-registration services
 1. [id-authentication](https://github.com/mosip/id-authentication): Identity authentication services
 1. [partner-management-services](https://github.com/mosip/partner-management-services): Partner management services
