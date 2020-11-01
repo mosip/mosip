@@ -11,7 +11,7 @@ The latest release of MOSIP, version 1.1.2 is here! We have migrated from Java 8
 Check out our [releases page](MOSIP-Releases.md) for a history of all public releases till date.
 
 ## MOSIP Resources
-**Documentation**:[MOSIP Documentation](https://docs.mosip.io)**Source Code**: [GitHub Repositories](https://github.com/mosip)<br>**Containers**: [Docker Repository](https://hub.docker.com/u/mosipid)<br>**Maven Repository**: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/) <br>**Presentations**: [mosip.io](https://www.mosip.io/resources.php)<br>**Learning Videos**: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)<br>**Community**: [Gitter Channel](https://gitter.im/mosip-community/community)
+**Documentation**:[MOSIP Documentation](https://docs.mosip.io)<br>**Source Code**: [GitHub Repositories](https://github.com/mosip)<br>**Containers**: [Docker Repository](https://hub.docker.com/u/mosipid)<br>**Maven Repository**: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/) <br>**Presentations**: [mosip.io](https://www.mosip.io/resources.php)<br>**Learning Videos**: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)<br>**Community**: [Gitter Channel](https://gitter.im/mosip-community/community)
 
 ## Contributions 
 MOSIP encourages you to contribute for global public good at all times.  To know how you could be part of the MOSIP community, refer to https://docs.mosip.io/platform/contribute
