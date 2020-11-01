@@ -11,18 +11,17 @@ The latest release of MOSIP, version 1.1.2 is here! We have migrated from Java 8
 Check out our [releases page](MOSIP-Releases.md) for a history of all public releases till date.
 
 ## MOSIP Resources
-
-**Source Code**: [GitHub Repositories](https://github.com/mosip)<br>**Containers**: [Docker Repository](https://hub.docker.com/u/mosipid)<br>**Maven Repository**: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/) <br>**Presentations**: [mosip.io](https://www.mosip.io/resources.php)<br>**Learning Videos**: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)<br>**Community**: [Gitter Channel](https://gitter.im/mosip-community/community)
+**Documentation**:[MOSIP Documentation](https://docs.mosip.io)**Source Code**: [GitHub Repositories](https://github.com/mosip)<br>**Containers**: [Docker Repository](https://hub.docker.com/u/mosipid)<br>**Maven Repository**: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/) <br>**Presentations**: [mosip.io](https://www.mosip.io/resources.php)<br>**Learning Videos**: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)<br>**Community**: [Gitter Channel](https://gitter.im/mosip-community/community)
 
 ## Contributions 
 MOSIP encourages you to contribute for global public good at all times.  To know how you could be part of the MOSIP community, refer to https://docs.mosip.io/platform/contribute
 
 ## Roadmap
 
-The MOSIP roadmap in the short term is the release of our **Long Term Support Version**. Our medium term focus is to enable reference implementations of identity usage, integrations and interoperability. The long term focus is to offer a set of core components for digital governance. Check out our [roadmap](https://docs.mosip.io/platform/roadmap) and [call for contribution](https://docs.mosip.io/platform/contribute/contributor-guide) to see how you can be part of the MOSIP journey.
+The MOSIP roadmap in the short term is the release of our **Long Term Support Version**. Our medium term focus is to enable reference implementations of identity usage, integrations and interoperability. The long term focus is to offer a set of core components for digital governance. Check out our [roadmap](https://docs.mosip.io/platform/roadmap).
 
 ## Communication
 Join the [developer mailing list](https://groups.io/g/mosip-dev)
 
-You may also be interested in joining our community room on Gitter via [![Gitter](https://badges.gitter.im/mosip-community/community.svg)](https://gitter.im/mosip-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Join the chat at https://gitter.im/mosip-community/Documentation](https://badges.gitter.im/mosip-community/Documentation.svg)](https://gitter.im/mosip-community/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  where you could get some great community support
+You may also be interested in joining our community room on Gitter via [![Gitter](https://badges.gitter.im/mosip-community/community.svg)](https://gitter.im/mosip-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) where you could get some great community support.
 
