@@ -1,21 +1,28 @@
 MOSIP (https://mosip.io) stands for Modular Open-Source Identity Platform. It is open source software which governments or international organisations can use as a core, to build foundational digital identity systems. 
 
+## Releases
 
-### MOSIP Repos
-The repos in MOSIP have everything that you need to build and deploy it on a on-premise or hosted environment.
+The latest release of MOSIP, version 1.1.2 is here! We have migrated from Java 8 to Java 11 as part of this release and also incorporated some software infrastructure changes as part of paring the technical debt. Check out the exciting new services and enhancements in the documentation.
 
-1. [commons](https://github.com/mosip/commons):  Kernel and ID repository modules
-1. [registration](https://github.com/mosip/registration): Registration processor and registration client
-1. [pre-registration](https://github.com/mosip/pre-registration): Pre-registration services
-1. [id-authentication](https://github.com/mosip/id-authentication): Identity authentication services
-1. [partner-management-services](https://github.com/mosip/partner-management-services): Partner management services
-1. [admin-services](https://github.com/mosip/admin-services): Administration services
-1. [mosip-config](https://github.com/mosip/mosip-config): Configuration properties for deployment
-1. [mosip-infra](https://github.com/mosip/mosip-infra): Deployment automation
-1. [mosip-functional-tests](https://github.com/mosip/mosip-functional-tests) : Code and test data to perform MOSIP functional API testing.
-1. [mosip-ref-impl](https://github.com/mosip/mosip-ref-impl): Reference implementation for pre-registration UI, admin and ID auth UI
-1. [documentation](https://github.com/mosip/documentation): Platform documentation. Contents from this repo are fed into https://docs.mosip.io
+**Current Release**<br>Version: 1.1.2<br>Release Date: October 25, 2020<br>You can find the release notes [here](https://docs.mosip.io/platform/mosip-releases/release-notes-1.1.2).
 
+**Previous Release**<br>Version: 1.1.1<br>Release Date: September 14, 2020<br>You can find the release notes [here](https://docs.mosip.io/platform/mosip-releases/release-notes-1.1.1).
 
+Check out our [releases page](MOSIP-Releases.md) for a history of all public releases till date.
 
+## MOSIP Resources
+
+**Source Code**: [GitHub Repositories](https://github.com/mosip)<br>**Containers**: [Docker Repository](https://hub.docker.com/u/mosipid)<br>**Maven Repository**: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/) <br>**Presentations**: [mosip.io](https://www.mosip.io/resources.php)<br>**Learning Videos**: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)<br>**Community**: [Gitter Channel](https://gitter.im/mosip-community/community)
+
+## Contributions 
+MOSIP encourages you to contribute for global public good at all times.  To know how you could be part of the MOSIP community, refer to https://docs.mosip.io/platform/contribute
+
+## Roadmap
+
+The MOSIP roadmap in the short term is the release of our **Long Term Support Version**. Our medium term focus is to enable reference implementations of identity usage, integrations and interoperability. The long term focus is to offer a set of core components for digital governance. Check out our [roadmap](https://docs.mosip.io/platform/roadmap) and [call for contribution](https://docs.mosip.io/platform/contribute/contributor-guide) to see how you can be part of the MOSIP journey.
+
+## Communication
+Join the [developer mailing list](https://groups.io/g/mosip-dev)
+
+You may also be interested in joining our community room on Gitter via [![Gitter](https://badges.gitter.im/mosip-community/community.svg)](https://gitter.im/mosip-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Join the chat at https://gitter.im/mosip-community/Documentation](https://badges.gitter.im/mosip-community/Documentation.svg)](https://gitter.im/mosip-community/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  where you could get some great community support
 
