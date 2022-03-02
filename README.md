@@ -2,7 +2,9 @@ MOSIP (https://mosip.io) stands for Modular Open-Source Identity Platform. It is
 
 ## Releases
 
-The latest release of MOSIP, version **1.2.0 LTS** is here! Check out the exciting new services and enhancements in the [documentation](https://docs.mosip.io/1.2.0/). 
+The latest release of MOSIP, version **1.2.0 LTS** is here! Check out the exciting new services added and enhancements in the documentation.
+
+To know more about MOSIP and its offerings, see our documentation on [docs.mosip.io](https://docs.mosip.io/1.2.0/). 
 
 ### Latest Release
 
