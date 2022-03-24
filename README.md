@@ -21,7 +21,5 @@ MOSIP encourages you to contribute for global public good at all times.  To know
 The MOSIP roadmap in the short term is the release of our **Long Term Support Version**. Our medium term focus is to enable reference implementations of identity usage, integrations and interoperability. The long term focus is to offer a set of core components for digital governance. Check out our [roadmap](https://docs.mosip.io/platform/roadmap).
 
 ## Communication
-Join the [developer mailing list](https://groups.io/g/mosip-dev)
-
-You may also be interested in joining our community room on Gitter via [![Gitter](https://badges.gitter.im/mosip-community/community.svg)](https://gitter.im/mosip-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) where you could get some great community support.
+Join our Discourse community https://community.mosip.io 
 
