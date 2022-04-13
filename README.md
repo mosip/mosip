@@ -1,24 +1,34 @@
-MOSIP (https://mosip.io) stands for Modular Open-Source Identity Platform. It is open source software which governments or international organisations can use as a core, to build foundational digital identity systems. 
+MOSIP (https://mosip.io) stands for Modular Open-Source Identity Platform. It is an open source software which governments or international organizations can use as a core to build foundational digital identity systems. 
 
 ## Releases
 
-The latest release of MOSIP, version 1.1.2 is here! We have migrated from Java 8 to Java 11 as part of this release and also incorporated some software infrastructure changes as part of paring the technical debt. Check out the exciting new services and enhancements in the documentation.
+The latest release of MOSIP, version **1.2.0 LTS** is here! Check out the exciting new services added and enhancements in the documentation.
 
-**Current Release**<br>Version: 1.1.2<br>Release Date: October 25, 2020<br>You can find the release notes [here](https://docs.mosip.io/platform/mosip-releases/release-notes-1.1.2).
+To know more about MOSIP and its offerings, see our documentation on [docs.mosip.io](https://docs.mosip.io/1.2.0/). 
 
-**Previous Release**<br>Version: 1.1.1<br>Release Date: September 14, 2020<br>You can find the release notes [here](https://docs.mosip.io/platform/mosip-releases/release-notes-1.1.1).
+### Latest Release
 
-Check out our [releases page](MOSIP-Releases.md) for a history of all public releases till date.
+**Version: 1.2.0**
+* Name: Asymmetric Amoeba 
+* <a href="https://docs.mosip.io/1.2.0/releases/support-policy" rel="nofollow"><img src="https://img.shields.io/badge/Support-Long%20Term%20Support-blue?style=plastic" alt="LTS"></a>
+* Date: 14th February 2022
+* [Release Notes](release/1.2.0/release-notes.md)
 
-## MOSIP Resources
-**Documentation**:[MOSIP Documentation](https://docs.mosip.io)<br>**Source Code**: [GitHub Repositories](https://github.com/mosip)<br>**Containers**: [Docker Repository](https://hub.docker.com/u/mosipid)<br>**Maven Repository**: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/) <br>**Presentations**: [mosip.io](https://www.mosip.io/resources.php)<br>**Learning Videos**: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)<br>**Community**: [Gitter Channel](https://gitter.im/mosip-community/community)
+### Older Releases
+
+Refer [Older Releases](https://docs.mosip.io/1.1.5/mosip-releases).
+
+## Resources
+* Source Code: [GitHub Repositories](https://github.com/mosip)
+* Containers: [Docker Repository](https://hub.docker.com/u/mosipid)
+* Maven Repository: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/)
+* Presentations: [mosip.io](https://www.mosip.io/resources.php)
+* Training: [MOSIP Academy](https://academy.mosip.io)
+* Learning videos: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)
+* Community: [MOSIP Community on Discourse](https://community.mosip.io)
 
 ## Contributions 
-MOSIP encourages you to contribute for global public good at all times.  To know how you could be part of the MOSIP community, refer to https://docs.mosip.io/platform/contribute
-
-## Roadmap
-
-The MOSIP roadmap in the short term is the release of our **Long Term Support Version**. Our medium term focus is to enable reference implementations of identity usage, integrations and interoperability. The long term focus is to offer a set of core components for digital governance. Check out our [roadmap](https://docs.mosip.io/platform/roadmap).
+MOSIP encourages you to contribute for global public good at all times. To know how you can be part of the MOSIP community, refer to https://docs.mosip.io/platform/contribute.
 
 ## Communication
 Join our Discourse community https://community.mosip.io 
