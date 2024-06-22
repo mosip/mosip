@@ -1,4 +1,14 @@
-# MOSIP
+<div align="center">
+    <a href="https://mosip.io/#1">
+        <img src="https://github.com/rohitrrai/mosip/assets/98941812/8d4705b9-7245-4df4-9559-e5018bb52a73" width="200" height="200">
+    </a>
+    <h2>MOSIP</h2>
+    <p align="center">
+        <p>Empowering Lives, One Unique ID at a Time</p>
+    </p>
+</div>
+<br/>
+
 Modular Open Source Identity Platform or [MOSIP](https://mosip.io/#1) was incubated at IIIT-Bangalore as a global [Digital Public Good](https://github.com/DPGAlliance). The platform enables digital-identity-led development and transformation for countries. Our vision is to help build a digital future that is inter-operable, inclusive, and based on trust.
  
 MOSIP offers adopters the flexibility to design, build, and own critical software infrastructure for ID. The open-source and open-standard platform comes with a modular, configurable, and customisable architecture, built on the principles of security and privacy by design. 
