@@ -1,10 +1,10 @@
-MOSIP (https://mosip.io) stands for Modular Open-Source Identity Platform. It is an open source software which governments or international organizations can use as a core to build foundational digital identity systems. 
+# MOSIP
+Modular Open Source Identity Platform or [MOSIP](https://mosip.io/#1) was incubated at IIIT-Bangalore as a global [Digital Public Good](https://github.com/DPGAlliance). The platform enables digital-identity-led development and transformation for countries. Our vision is to help build a digital future that is inter-operable, inclusive, and based on trust.
+ 
+MOSIP offers adopters the flexibility to design, build, and own critical software infrastructure for ID. The open-source and open-standard platform comes with a modular, configurable, and customisable architecture, built on the principles of security and privacy by design. 
+ 
+With MOSIP, adopters can imagine digital ID as a foundational building block for governance, enabling greater access to government-to-citizen services. Funded by philanthropic capital, the platform is being adopted by 20 countries in the Asia Pacific, Africa, and Latin America. 
 
-## Releases
-
-The latest release of MOSIP, version **1.2.0 LTS** is here! Check out the exciting new services added and enhancements in the documentation.
-
-To know more about MOSIP and its offerings, see our documentation on [docs.mosip.io](https://docs.mosip.io/1.2.0/). 
 
 ### Latest Release
 
@@ -20,16 +20,15 @@ Refer [Older Releases](https://docs.mosip.io/1.1.5/mosip-releases).
 
 ## Resources
 * Source Code: [GitHub Repositories](https://github.com/mosip)
+* Documentation: [MOSIP Docs](https://docs.mosip.io/1.2.0)  
 * Containers: [Docker Repository](https://hub.docker.com/u/mosipid)
 * Maven Repository: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/)
-* Presentations: [mosip.io](https://www.mosip.io/resources.php)
 * Training: [MOSIP Academy](https://academy.mosip.io)
-* Learning videos: [YouTube Channel](https://www.youtube.com/channel/UCKFSVO6BO1QLvBzc4voziDg)
-* Community: [MOSIP Community on Discourse](https://community.mosip.io)
+* Videos: [YouTube Channel](https://www.youtube.com/@mosip16)
 
 ## Contributions 
-MOSIP encourages you to contribute for global public good at all times. To know how you can be part of the MOSIP community, refer to https://docs.mosip.io/platform/contribute.
+MOSIP encourages you to contribute for global digital public good. To know how you can be part of the MOSIP community, refer to [Contributions Page](https://docs.mosip.io/platform/contribute)
 
-## Communication
-Join our Discourse community https://community.mosip.io 
+## Community
+Join our [Discourse Community](https://community.mosip.io) 
 
