@@ -14,7 +14,7 @@ Modular Open Source Identity Platform or [MOSIP](https://mosip.io/mosip_project)
  
 MOSIP offers adopters the flexibility to design, build, and own critical software infrastructure for ID. The open-source and open-standard platform comes with a modular, configurable, and customisable architecture, built on the principles of security and privacy by design ([MOSIP's Technology Principles](https://docs.mosip.io/1.2.0/roadmap#principles-and-vision)). 
  
-With MOSIP, adopters can imagine digital ID as a foundational building block for governance, enabling greater access to government-to-citizen services.
+With MOSIP, adopters can imagine digital ID as a foundational building block for governance, enabling greater access to government-to-people services.
 
 ## MOSIP Versions
 #### Latest Release
@@ -46,10 +46,10 @@ With MOSIP, adopters can imagine digital ID as a foundational building block for
 * Write-ups and blogs: [MOSIP 16.9](https://mosip.io/mosip16.9)
 
 ## Contributions 
-* MOSIP encourages you to contribute to the global digital public good. To know how you can be part of the MOSIP community, refer to [Contributions Page](https://docs.mosip.io/platform/contribute)
+* MOSIP welcomes contributions to the global digital public good. To know more on how to contribute refer to the [Contributions Page](https://docs.mosip.io/platform/contribute).
 
 ## Community
-* Join [MOSIP Community](https://community.mosip.io) to particpate in discussions, know about latest releases and community events, and more.
-* [MOSIP Community Calendar](https://docs.mosip.io/1.2.0/community/community-calendar) lists calendars for various community activities. 
+* Join the [MOSIP Community](https://community.mosip.io) to particpate in discussions, know about latest releases and community events, and more.
+* Refer to the [MOSIP Community Calendar](https://docs.mosip.io/1.2.0/community/community-calendar) to find calendars for various community activities. 
 
 
