@@ -43,13 +43,13 @@ With MOSIP, adopters can imagine digital ID as a foundational building block for
 * Maven Repository: [Nexus Repository](https://oss.sonatype.org/service/local/repositories/snapshots/content/io/mosip/)
 * Training: [MOSIP Academy](https://academy.mosip.io)
 * Videos: [YouTube Channel](https://www.youtube.com/@mosip16)
-* Writeups and blogs: [MOSIP 16.9](https://mosip.io/mosip16.9)
+* Write-ups and blogs: [MOSIP 16.9](https://mosip.io/mosip16.9)
 
 ## Contributions 
 * MOSIP encourages you to contribute to the global digital public good. To know how you can be part of the MOSIP community, refer to [Contributions Page](https://docs.mosip.io/platform/contribute)
 
 ## Community
 * Join [MOSIP Community](https://community.mosip.io) to particpate in discussions, know about latest releases and community events, and more.
-* [MOSIP Community Calender](https://docs.mosip.io/1.2.0/community/community-calendar) lists calenders for various community activities. 
+* [MOSIP Community Calendar](https://docs.mosip.io/1.2.0/community/community-calendar) lists calendars for various community activities. 
 
 
