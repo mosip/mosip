@@ -23,6 +23,7 @@ With MOSIP, adopters can imagine digital ID as a foundational building block for
 * <a href="https://docs.mosip.io/1.2.0/releases/support-policy" rel="nofollow"><img src="https://img.shields.io/badge/Support-Long%20Term%20Support-blue?style=plastic" alt="LTS"></a>
 * Date: 14th February 2022
 * [Release Notes](release/1.2.0/release-notes.md)
+* [Adopting LTS 1.2.0](https://docs.mosip.io/1.2.0/adopting-lts-1.2.0)
 
 #### Older Releases
 
@@ -44,8 +45,10 @@ With MOSIP, adopters can imagine digital ID as a foundational building block for
 * Writeups and blogs: [MOSIP 16.9](https://mosip.io/mosip16.9)
 
 ## Contributions 
-MOSIP encourages you to contribute to the global digital public good. To know how you can be part of the MOSIP community, refer to [Contributions Page](https://docs.mosip.io/platform/contribute)
+* MOSIP encourages you to contribute to the global digital public good. To know how you can be part of the MOSIP community, refer to [Contributions Page](https://docs.mosip.io/platform/contribute)
 
 ## Community
-Join our [Discourse Community](https://community.mosip.io) to particpate in discussions, know about latest releases and community events, and more.
+* Join our [Discourse Community](https://community.mosip.io) to particpate in discussions, know about latest releases and community events, and more.
+* [MOSIP Community Calender](https://docs.mosip.io/1.2.0/community/community-calendar) lists calenders for various community activities. 
+
 
