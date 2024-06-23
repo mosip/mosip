@@ -14,7 +14,7 @@ Modular Open Source Identity Platform or [MOSIP](https://mosip.io/mosip_project)
  
 MOSIP offers adopters the flexibility to design, build, and own critical software infrastructure for ID. The open-source and open-standard platform comes with a modular, configurable, and customisable architecture, built on the principles of security and privacy by design ([MOSIP's Technology Principles](https://docs.mosip.io/1.2.0/roadmap#principles-and-vision)). 
  
-With MOSIP, adopters can imagine digital ID as a foundational building block for governance, enabling greater access to government-to-citizen services. Funded by philanthropic capital, the platform is being adopted by 20 countries in the Asia Pacific, Africa, and Latin America. 
+With MOSIP, adopters can imagine digital ID as a foundational building block for governance, enabling greater access to government-to-citizen services.
 
 ## MOSIP Versions
 #### Latest Release
