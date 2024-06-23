@@ -7,7 +7,6 @@
         <h3>Empowering Lives, One Unique ID at a Time</h3>
     </p>
 </div>
-<br/>
 
 ![pattern v-01](https://github.com/rohitrrai/mosip/assets/98941812/859c4f13-bb77-4271-be01-763b005754c0)
 
