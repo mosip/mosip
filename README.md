@@ -28,7 +28,7 @@ Refer [Older Releases](https://docs.mosip.io/1.1.5/mosip-releases).
 * Community: [MOSIP Community on Discourse](https://community.mosip.io)
 
 ## Contributions 
-MOSIP encourages you to contribute for global public good at all times. To know how you can be part of the MOSIP community, refer to https://docs.mosip.io/platform/contribute.
+MOSIP encourages you to contribute for global public good at all times. To know how you can be part of the MOSIP community, refer to https://docs.mosip.io/1.2.0/community/code-contributions.
 
 ## Communication
 Join our Discourse community https://community.mosip.io 
