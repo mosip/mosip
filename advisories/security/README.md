@@ -8,7 +8,7 @@ Advisory IDs follow the format `MOSIP-SEC-<SEVERITY>-<YEAR>-<SEQUENCE>`. See the
 
 Please **do not** report security vulnerabilities through public GitHub issues, pull requests or community forums.
 
-Report them privately to: `<TODO: security contact email / reporting link>`
+Report them privately using GitHub's private vulnerability reporting: [**Report a vulnerability**](https://github.com/mosip/mosip/security/advisories/new). This needs a GitHub account; the report is visible only to you and the MOSIP maintainers.
 
 Include the affected module and version, a description of the issue, steps to reproduce, and its potential impact. An advisory is published here once a fix or mitigation is available.
 
