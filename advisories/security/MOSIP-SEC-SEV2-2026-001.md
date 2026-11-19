@@ -1,12 +1,14 @@
 > **PLACEHOLDER** — this advisory has not been published yet. Replace all `<placeholders>` before publishing.
 
-# MOSIP-GEN-SEV2-2026-002: <Short descriptive title>
+# MOSIP-SEC-SEV2-2026-001: <Short descriptive title>
 
 | Field | Value |
 |-------|-------|
-| **Advisory ID** | `MOSIP-GEN-SEV2-2026-002` |
-| **Type** | General |
+| **Advisory ID** | `MOSIP-SEC-SEV2-2026-001` |
+| **Type** | Security |
 | **Severity** | SEV2 – High |
+| **CVE ID** (security only) | `<CVE-YYYY-NNNNN / Not assigned / N/A>` |
+| **CVSS score** (security only) | `<score> (<vector string>)` |
 | **Status** | `<Draft / Published / Updated / Withdrawn>` |
 | **Published** | `<YYYY-MM-DD>` |
 | **Last updated** | `<YYYY-MM-DD>` |
@@ -46,7 +48,7 @@ For security advisories, describe the vulnerability class without publishing a w
 
 | File | Description |
 |------|-------------|
-| [`<file name>`](../additionalfiles/MOSIP-GEN-SEV2-2026-002/<file name>) | `<description>` |
+| [`<file name>`](../additionalfiles/MOSIP-SEC-SEV2-2026-001/<file name>) | `<description>` |
 
 ## References
 
