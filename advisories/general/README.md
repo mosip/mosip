@@ -1,18 +1,25 @@
 # MOSIP General Advisories
 
-General advisories cover non-security matters that adopters need to act on, such as:
+This directory contains official non-security advisories published by MOSIP to inform adopters, system integrators, partners, and the community about important product-related issues, operational concerns, and changes that may require attention or action.
 
-- Critical functional bugs and data-integrity issues
-- Deprecations and end-of-support / end-of-life notices
-- Mandatory upgrade or migration guidance
-- Third-party dependency, infrastructure or certificate-expiry notices
-- Breaking configuration changes
+General advisories may cover:
 
-Advisory IDs follow the format `MOSIP-GEN-<SEVERITY>-<YEAR>-<SEQUENCE>`. See the [advisories README](../README.md) for the naming convention and severity levels.
+-   Critical functional issues or data-integrity concerns.
+-   Product deprecations, end-of-support, or end-of-life notices.
+-   Important upgrade, migration, or compatibility guidance.
+-   Third-party dependency, infrastructure, or certificate-related concerns.
+-   Significant configuration changes or operational recommendations.
 
-## Index
+Each advisory provides relevant details on the concern, affected components or versions, potential impact, and recommended actions or workarounds, where applicable.
 
-| Advisory ID | Title | Severity | Affected modules / versions | Published | Last updated | Status |
-|-------------|-------|----------|-----------------------------|-----------|--------------|--------|
-| [MOSIP-GEN-SEV1-2026-001](MOSIP-GEN-SEV1-2026-001.md) | `<title>` | SEV1 – Critical | `<module x.y.z>` | `<YYYY-MM-DD>` | `<YYYY-MM-DD>` | `<Draft / Published / Updated / Withdrawn>` |
-| [MOSIP-GEN-SEV2-2026-002](MOSIP-GEN-SEV2-2026-002.md) | `<title>` | SEV2 – High | `<module x.y.z>` | `<YYYY-MM-DD>` | `<YYYY-MM-DD>` | `<Draft / Published / Updated / Withdrawn>` |
+## Published General Advisories
+
+| Advisory ID | Title | Severity | Affected Modules / Versions | Published Date | Last Updated |
+| --- | --- | --- | --- | --- | --- |
+| `MOSIP-GEN-SEV1-YYYY-001` | \[Advisory Title\] | SEV1 – Critical | \[Module / Version\] | YYYY-MM-DD | YYYY-MM-DD |
+
+Advisory IDs follow the format `MOSIP-GEN-<SEVERITY>-<YEAR>-<SEQUENCE>`.
+
+For details on advisory classifications, severity levels, and naming conventions, refer to the [MOSIP Advisories Overview](https://github.com/mosip/mosip/blob/master/advisories/README.md).
+
+Published advisories may be updated as additional information or recommendations become available. Stakeholders are encouraged to refer to the latest version of the respective advisory.
